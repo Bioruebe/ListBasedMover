@@ -1,0 +1,8 @@
+1.1.0
+  Added 'always' and 'never' optons to overwrite confirmation prompt
+  Fixed problems with files, directories and list entries containing unicode characters
+  Fixed comfirmation prompt accepting only lower case characters
+  Removed std.dll dependency
+
+1.0.0
+  Initial Release

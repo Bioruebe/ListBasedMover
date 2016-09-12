@@ -1,0 +1,5 @@
+hxcpp\3,3,49\project>neko build.n clean static-windows
+
+haxe build with -D static_link
+vs cmd prompt:
+cl.exe "C:\Development\HaxeToolkit\haxe\StaticMain.cpp" libMain.lib C:\Development\HaxeToolkit\haxe\lib\hxcpp\3,3,49\lib\Windows\libstd-19.lib C:\Development\HaxeToolkit\haxe\lib\hxcpp\3,3,49\lib\Windows\libzlib-19.lib C:\Development\HaxeToolkit\haxe\lib\hxcpp\3,3,49\lib\Windows\libregexp-19.lib user32.lib ws2_32.lib
